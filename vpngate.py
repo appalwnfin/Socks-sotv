@@ -463,6 +463,27 @@ EDGE_HOSTS = [
         "ahrefs.com:443,constitution.congress.gov:443,guide.for.edu.sg:443,www.crazygames.fr:443,"
         "spring.io:443,cf.1o.ee:443,www.deepl.com:443,www.shopify.com:450,linear.app:443,"
         "dongbanghong.com:443,m.iyf.tv:443,cf.3666888.xyz:443,www.mastervolt.com:443",
+        "ahrefs.com:443,time.cloudflare.com:443,www.whoer.net:443,www.boba88slot.com:443,d1.awsstatic.com:443",
+        "constitution.congress.gov:443,shopify.com:443,www.whatismyip.com:443,gur.gov.ua:443,cdn-dynmedia-1.microsoft.com:443",
+        "guide.for.edu.sg:443,time.is:443,www.ipget.net:443,www.zsu.gov.ua:443,images-na.ssl-images-amazon.com:443",
+        "www.crazygames.fr:443,icook.hk:443,www.hugedomains.com:443,www.iakeys.com:443,m.media-amazon.com:443",
+        "spring.io:443,icook.tw:443,www.udacity.com:443,edtunnel-dgp.pages.dev:443,player.live-video.net:443",
+        "cf.1o.ee:443,ip.sb:443,www.4chan.org:443,www.d-555.com:443,www.lovelive-anime.jp:443",
+        "www.deepl.com:443,japan.com:443,www.okcupid.com:443,fbi.gov:443,www.caltech.edu:443",
+        "www.shopify.com:443,malaysia.com:443,www.glassdoor.com:443,gateway.icloud.com:443,www.calstatela.edu:443",
+        "linear.app:443,russia.com:443,www.udemy.com:443,itunes.apple.com:443,www.suny.edu:443",
+        "dongbanghong.com:443,singapore.com:443,www.baipiao.eu.org:443,swdist.apple.com:443,www.suffolk.edu:443",
+        "m.iyf.tv:443,skk.moe:443,cdn.anycast.eu.org:443,swcdn.apple.com:443,www.python.org:443,
+        "cf.3666888.xyz:443,www.visa.com:443,cdn-all.xn--b6gac.eu.org:443,updates.cdn-apple.com:443,vuejs-jp.org:443",
+        "www.mastervolt.com:443,www.visa.com.sg:443,cdn-b100.xn--b6gac.eu.org:443,mensura.cdn-apple.com:443,vuejs.org:443",
+        "www.gov.se:443,www.visa.com.hk:443,xn--b6gac.eu.org:443,osxapps.itunes.apple.com:443,zh-hk.vuejs.org:443",
+        "www.gov.ua:443,www.visa.com.tw:443,edgetunnel.anycast.eu.org:443,aod.itunes.apple.com:443,react.dev:443",
+        "www.digitalocean.com:443,www.visa.co.jp:443,alejandracaiccedo.com:443,download-installer.cdn.mozilla.net:443,www.java.com:443",
+        "www.csgo.com:443,www.visakorea.com:443,nc.gocada.co:443,addons.mozilla.org:443,www.oracle.com:443",
+        "www.shopify.com:443,www.gco.gov.qa:443,log.bpminecraft.com:443,s0.awsstatic.com:443,www.mysql.com:443",
+        "www.samsung.com:443,www.fom-international.com:443,cname.vercel-dns.com:443,academy.nvidia.com:443,www.mongodb.com:443",
+        "www.amd.com:443,www.u-can.co.jp:443,vercel-dns.com:443,www.swift.com:443,redis.io:443",
+        "www.umcg.nl:443,github.io:443,www.asus.com:443,www.cisco.com:443,www.swift.com:443",
     ).split(",")
     if h.strip()
 ]
