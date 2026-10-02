@@ -460,22 +460,13 @@ EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
         "EDGE_HOSTS",
-        "www.visa.cn:443,www.dentoncounty.gov:443,www.udacity.com:443,cf.qq.ms:443,cf.090227.xyz:443",
-        "www.udacity.com:443,academy.7shifts.com:443,www.glassdoor.com:443,www.wto.org:443,mfa.gov.ua:443",
-        "www.jimdo.com:443,guide.for.edu.sg:443,www.shopify.com:443,cfplus.255520.xyz:443,cf.777791.xyz:443",
-        "www.researchgate.net:443,www.mastervolt.com:443,linear.app:443,www.leics.police.uk:443,www.jp.pima.gov:443",
-        "openai.com:443,www.sloomb.com:443,cf.3666888.xyz:443,spring.io:443,serviceshub.samsclub.com:443",
-        "store.ubi.com:443,mail.notion.com:443,thebeat.gehealthcare.com:443,constitution.congress.gov:443,www.asda.com:443",
-        "www.emerson.com:443,www.sage.com:443,www.bangbenjiaju.com:443,53.fs1.hubspotusercontent-na1.net:443,www.transunion.hk:443",
-        "www.sage.com:443,funko.com:443,saas.072159.xyz:443,www.broadcom.com:443,www.broadcom.com:443",
-        "www.zendesk.com:443,openai.com:443,cf.itv888.cn:443,cf.1o.ee:443,tt.78607323.xyz:443",
-        "glassdoor.com:443,prizepicks.com:443,01-cctv.com:443,m.iyf.tv:443,store.ubi.com:443",
-        "markmonitor.com:443,www.gov.il:443,img.css.sd:443,staticdelivery.nexusmods.com:443,markmonitor.com:443",
-        "bluehost.com:443,www.carousell.sg:443,lt.1930812.xyz:443,ex.warspite.dpdns.org:443,www.mlkj888.com:443",
-        "www.police.uk:443,jobsdb.com:443,wppaunz.com:443,neko.cloudd.eu.org:443,deepin.org:443",
-        "www.wto.org:443,www.shopify.com:443,cf.877774.xyz:443,coreweave.com:443,c-power.com.cn:443",
-        "www.shopify.com:443,egov.uscis.gov:443,www.leics.police.uk:443,op.chinwa.eu.cc:443,cf.090227.xyz:443",
-        "china.mfa.gov.ua:443,www.deepl.com:443,www.doordash.com:443,dongbanghong.com:443,cf.xreak.top:443",
+        "ahrefs.com:443,constitution.congress.gov:443,guide.for.edu.sg:443,www.crazygames.fr:443,"
+        "spring.io:443,cf.1o.ee:443,www.deepl.com:443,www.shopify.com:450,linear.app:443,"
+        "dongbanghong.com:443,m.iyf.tv:443,cf.3666888.xyz:443,www.mastervolt.com:443",
+        "www.giannidelprete.it:2083,mail.notion.com:2087,cmcc.cc.cd:2087,53.fs1.hubspotusercontent-na1.net:8443,"
+        "cdn.cnno.de:2083,constitution.congress.gov:2096,serviceshub.samsclub.com:2083,cf-cname.xingpingcn.top:2096,"
+        "www.deepl.com:2087,linear.app:443,test.509666.xyz:2083,www.sofi.com:2053,cf.xreak.top:2053,"
+        "vps.cheng2001.top:2096,cf.qq.ms:2053,224322.xyz:2083,dongbanghong.com:443,"
     ).split(",")
     if h.strip()
 ]
